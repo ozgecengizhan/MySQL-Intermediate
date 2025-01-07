@@ -1,4 +1,4 @@
-MySQL Tutorials and Examples 🚀 Bu repo, MySQL ile ilgili temel ve ileri düzey kavramları öğrenmek isteyenler için çeşitli örnek sorgular ve açıklamalar içerir.
+MySQL Tutorials and Examples 🚀 Bu repo, MySQL ile ilgili orta düzey kavramları öğrenmek isteyenler için çeşitli örnek sorgular ve açıklamalar içerir.
 
 📚 İçindekiler: 
 Katılımlar(Joins)
