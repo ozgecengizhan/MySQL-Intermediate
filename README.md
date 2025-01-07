@@ -6,3 +6,4 @@ Birlikler(Union)
 Dize fonksiyonları
 Durum bildirimi
 Alt sorgular
+Pencere fonksiyonları
